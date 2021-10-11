@@ -1,0 +1,12 @@
+@charset "UTF-8";
+img {position:absolute}
+.start {left: 900px;
+	top: 300px
+}
+
+.blackpage
+{left: 200px}
+
+.instructions
+{left: 900px;
+top: 470px}
